@@ -1,8 +1,8 @@
 # Open Source Audit Project
 
 ## Student Details
-Name: Jayesh Joshi  
-Roll Number: YOUR_ROLL_NUMBER  
+Name: Prakhar Gupta   
+Registration Number - 24BAI10868 
 
 ---
 
